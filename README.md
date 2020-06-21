@@ -25,3 +25,10 @@ Execute `ng generate component nome-do-componente` para criar um novo componente
 
 Execute `ng build` para gerar o compilado do projeto. O projeto vai ser criado dentro do diretório `dist/`. Adicionar `--prod` junto comando de build para gerar minificado e pronto para o ambiente de produção.
 
+## Página da Listagem de Filmes
+
+![Listagem](https://i.imgur.com/2lXkXnG.jpg "Listagem dos filmes")
+
+## Página de cadastro de filme
+
+![Cadastro](https://i.imgur.com/lLHIU5d.jpg "Cadastro")
